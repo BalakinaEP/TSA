@@ -60,6 +60,7 @@ void checkExist(const double a, const double b, const double c)
     {
         cout<<"It can't be triangle"<<endl;
         abort();
+        
     }
 }
 
